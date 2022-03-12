@@ -15,7 +15,7 @@
 
 <body>
 
-    <form action="<php echo $SERVER['PHP_SELF'];?>" method="post">
+    <form action="<?=$_SERVER['PHP_SELF'];?>" method="post">
         <div class="card">
             <div class="card-header">
                 <div class="card-body">
