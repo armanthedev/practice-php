@@ -8,31 +8,31 @@ echo "Today is 3" . date("jS"). "<br>";
 
 echo "Month is 4" . date("F"). "<br>";
 
-echo "Month is 5" . date("m"). "<br>";
+echo "Month is 5 ((   " . date("m"). "<br>";
 
-echo "Month is 6" . date("n"). "<br>";
+echo "Month is 6 ((   " . date("n"). "<br>";
 
-echo "Month is 7" . date("M"). "<br>";
+echo "Month is 7 ((   " . date("M"). "<br>";
 
-echo "Year is 8" . date("Y"). "<br>";
+echo "Year is 8 ((   " . date("Y"). "<br>";
 
-echo "Year is 9" . date("y"). "<br>";
+echo "Year is 9 ((   " . date("y"). "<br>";
 
-echo "Full Date is 10" . date("d/m/Y"). "<br>";
+echo "Full Date is 10 ((   " . date("d/m/Y"). "<br>";
 
-echo "Full Date is 11" . date("Y-m-d"). "<br>";
+echo "Full Date is 11 ((   " . date("Y-m-d"). "<br>";
 
-echo "Full Date is 12" . date("Y-M-d"). "<br>";
+echo "Full Date is 12 ((   " . date("Y-M-d"). "<br>";
 
-echo "Week Day is 13" . date("D"). "<br>";
+echo "Week Day is 13 ((   " . date("D"). "<br>";
 
-echo "Week Day is 14" . date("l"). "<br>";
+echo "Week Day is 14 ((   " . date("l"). "<br>";
 
-echo "Week Day is 15" . date("N"). "<br>";
+echo "Week Day is 15 ((   " . date("N"). "<br>";
 
-echo "Week Day is 16" . date("w"). "<br>";
+echo "Week Day is 16 ((   " . date("w"). "<br>";
 
-echo "Day is 17" . date("z"). "<br>";
+echo "Day is 17 " . date("z"). "<br>";
 
 echo "Week of the year " . date("W"). "<br>";
 
